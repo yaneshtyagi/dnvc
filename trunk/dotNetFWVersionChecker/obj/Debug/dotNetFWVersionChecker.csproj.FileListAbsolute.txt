@@ -1,0 +1,8 @@
+E:\Yanesh\Projects R&D\dotNetFWVersionChecker\dotNetFWVersionChecker\obj\Debug\ResolveAssemblyReference.cache
+E:\Yanesh\Projects R&D\dotNetFWVersionChecker\dotNetFWVersionChecker\obj\Debug\dotNetFWVersionChecker.Form1.resources
+E:\Yanesh\Projects R&D\dotNetFWVersionChecker\dotNetFWVersionChecker\obj\Debug\dotNetFWVersionChecker.Properties.Resources.resources
+E:\Yanesh\Projects R&D\dotNetFWVersionChecker\dotNetFWVersionChecker\obj\Debug\dotNetFWVersionChecker.csproj.GenerateResource.Cache
+E:\Yanesh\Projects R&D\dotNetFWVersionChecker\dotNetFWVersionChecker\bin\Debug\dotNetFWVersionChecker.exe
+E:\Yanesh\Projects R&D\dotNetFWVersionChecker\dotNetFWVersionChecker\bin\Debug\dotNetFWVersionChecker.pdb
+E:\Yanesh\Projects R&D\dotNetFWVersionChecker\dotNetFWVersionChecker\obj\Debug\dotNetFWVersionChecker.exe
+E:\Yanesh\Projects R&D\dotNetFWVersionChecker\dotNetFWVersionChecker\obj\Debug\dotNetFWVersionChecker.pdb

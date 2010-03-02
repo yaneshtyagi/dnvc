@@ -12,4 +12,4 @@ dnvc or Dot Net Version Checker is a small portable application that shows all t
 #Run the file. It will show the following output:
 
 
-#close the file bi clicking on the red X  button.
+#close the file by clicking on the red X  button.
